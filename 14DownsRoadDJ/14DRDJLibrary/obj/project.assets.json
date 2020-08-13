@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gigafactory\\source\\repos\\14DownsRoadDJ\\14DRDJLibrary\\14DRDJLibrary.csproj",
+      "projectUniqueName": "E:\\programs\\piPlayer\\14DownsRoadDJ\\14DRDJLibrary\\14DRDJLibrary.csproj",
       "projectName": "14DRDJLibrary",
-      "projectPath": "C:\\Users\\Gigafactory\\source\\repos\\14DownsRoadDJ\\14DRDJLibrary\\14DRDJLibrary.csproj",
+      "projectPath": "E:\\programs\\piPlayer\\14DownsRoadDJ\\14DRDJLibrary\\14DRDJLibrary.csproj",
       "packagesPath": "C:\\Users\\Gigafactory\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gigafactory\\source\\repos\\14DownsRoadDJ\\14DRDJLibrary\\obj\\",
+      "outputPath": "E:\\programs\\piPlayer\\14DownsRoadDJ\\14DRDJLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

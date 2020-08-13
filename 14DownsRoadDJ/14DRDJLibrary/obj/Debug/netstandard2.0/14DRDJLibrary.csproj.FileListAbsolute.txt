@@ -7,3 +7,12 @@ C:\Users\Gigafactory\source\repos\14DownsRoadDJ\14DRDJLibrary\obj\Debug\netstand
 C:\Users\Gigafactory\source\repos\14DownsRoadDJ\14DRDJLibrary\obj\Debug\netstandard2.0\14DRDJLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Gigafactory\source\repos\14DownsRoadDJ\14DRDJLibrary\obj\Debug\netstandard2.0\14DRDJLibrary.dll
 C:\Users\Gigafactory\source\repos\14DownsRoadDJ\14DRDJLibrary\obj\Debug\netstandard2.0\14DRDJLibrary.pdb
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJLibrary\bin\Debug\netstandard2.0\14DRDJLibrary.deps.json
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJLibrary\bin\Debug\netstandard2.0\14DRDJLibrary.dll
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJLibrary\bin\Debug\netstandard2.0\14DRDJLibrary.pdb
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJLibrary\obj\Debug\netstandard2.0\14DRDJLibrary.csprojAssemblyReference.cache
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJLibrary\obj\Debug\netstandard2.0\14DRDJLibrary.AssemblyInfoInputs.cache
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJLibrary\obj\Debug\netstandard2.0\14DRDJLibrary.AssemblyInfo.cs
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJLibrary\obj\Debug\netstandard2.0\14DRDJLibrary.csproj.CoreCompileInputs.cache
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJLibrary\obj\Debug\netstandard2.0\14DRDJLibrary.dll
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJLibrary\obj\Debug\netstandard2.0\14DRDJLibrary.pdb

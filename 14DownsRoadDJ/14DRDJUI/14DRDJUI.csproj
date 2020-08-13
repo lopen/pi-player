@@ -44,6 +44,9 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="Transitions">
+      <HintPath>.\Transitions.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DJInterface.cs">
@@ -88,6 +91,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="previousSongIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="queueIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="animal-hero-template-orangutan.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -63,6 +63,16 @@ namespace _14DRDJUI.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap animal_hero_template_orangutan {
+            get {
+                object obj = ResourceManager.GetObject("animal-hero-template-orangutan", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bluej_84_toned {
             get {
                 object obj = ResourceManager.GetObject("bluej-84-toned", resourceCulture);
@@ -86,6 +96,16 @@ namespace _14DRDJUI.Properties {
         internal static System.Drawing.Bitmap previousSongIcon {
             get {
                 object obj = ResourceManager.GetObject("previousSongIcon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap queueIcon {
+            get {
+                object obj = ResourceManager.GetObject("queueIcon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
