@@ -4,9 +4,11 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Transitions;
 
 namespace _14DRDJUI
 {
@@ -18,8 +20,12 @@ namespace _14DRDJUI
         }
 
         private void DJInterface_Load(object sender, EventArgs e)
-        {
-
+        { 
+                Transition.run(currentSongLbl, "Left", 1024, new TransitionType_Linear(3000));
+                currentSongLbl.Visible = false;
+                currentSongLbl.Left = -300;
+                currentSongLbl.Visible = true;
+                Transition.run(currentSongLbl, "Left", 1024, new TransitionType_Linear(3000));    
         }
 
         private void currentSongHeader_Click(object sender, EventArgs e)
@@ -36,6 +42,16 @@ namespace _14DRDJUI
             } else {
                 queueListCMS.Show(queueOfSongsBtn, new Point(0, queueOfSongsBtn.Height));
             }
+        }
+        
+        private void nextSongBtn_Click(object sender, EventArgs e)
+        {
+            
+        }
+        
+        private void currentSongLbl_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }

@@ -1,0 +1,12 @@
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJUI\bin\Debug\14DRDJUI.exe.config
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJUI\bin\Debug\14DRDJUI.exe
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJUI\bin\Debug\14DRDJUI.pdb
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJUI\obj\Debug\14DRDJUI.csprojAssemblyReference.cache
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJUI\obj\Debug\_14DRDJUI.DJInterface.resources
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJUI\obj\Debug\_14DRDJUI.Properties.Resources.resources
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJUI\obj\Debug\14DRDJUI.csproj.GenerateResource.cache
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJUI\obj\Debug\14DRDJUI.csproj.CoreCompileInputs.cache
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJUI\obj\Debug\14DRDJUI.exe
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJUI\obj\Debug\14DRDJUI.pdb
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJUI\bin\Debug\Transitions.dll
+E:\programs\piPlayer\14DownsRoadDJ\14DRDJUI\obj\Debug\14DRDJUI.csproj.CopyComplete
