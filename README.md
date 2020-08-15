@@ -1,2 +1,2 @@
 # pi-player
-"Super 54" An application to control music using a Raspberry Pi. 
+"Super 54" An application to control music using a Raspberry Pi. Programmed in C#.
